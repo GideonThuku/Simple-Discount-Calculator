@@ -22,9 +22,32 @@ If the discount is **20% or higher**, it applies the discount. Otherwise, the pr
 
 
 ## Example
+
+**Case 1: Discount is 25% (applies discount)**
+--------------------------------------------------------------------
+             Weclome to Our Simple Discount Calculator
+--------------------------------------------------------------------
 Please type the original price: 1000
 Please type the discount percent: 25
-Great news, you have a 25% discount!
-Final Price = 750.00
+----------------------------------------------------------------------
+              Great news, you have a 25% discount!
+                   Final Price = 750.00
+----------------------------------------------------------------------
+          Thank you for using our simple discount checker!
+----------------------------------------------------------------------
+               Program made by Gideon, PLP Academy
 
-r
+**Case 2: Discount is 10% (no discount applied)**
+--------------------------------------------------------------------
+             Weclome to Our Simple Discount Calculator
+--------------------------------------------------------------------
+Please type the original price: 500
+Please type the discount percent: 10
+----------------------------------------------------------------------
+Bad news, discount is too small. No discount given.
+               Final Price = 500.00
+----------------------------------------------------------------------
+          Thank you for using our simple discount checker!
+----------------------------------------------------------------------
+               Program made by Gideon, PLP Academy
+
